@@ -1,0 +1,1251 @@
+```{=org}
+#+STARTUP: showeverything
+```
+# Professional Skills and Issues {#professional-skills-and-issues-1}
+
+## Risk & Responsibility
+
+Relevant concepts and legal aspects around risk & responsibility.
+
+-   The Risk & Responsibility theme considers the following material:
+-   Professional bodies
+-   Display Screen Regulations
+-   Risk
+-   Consultancy and contract hire
+-   Contracts
+-   Security through contracts
+-   Defective software
+-   Computer Misuse
+-   Plan, Do, Check, Act
+
+### Professional bodies
+
+Professional bodies
+
+-   Professionals (e.g., architects, engineers, medics) must accept
+    responsibility for their actions, especially when a mistake could be
+    disastrous.
+-   A professional body is an organisation that promotes high standards
+    in a particular profession.
+
+Examples of IT-related professional bodies:
+
+-   ACM (US-based but international membership)
+
+-   BCS (UK)
+
+-   IEEE (US-based but international membership;
+    electrical/telecommunications/computer engineering)
+
+-   IET (UK; electrical/computer engineering)
+
+-   Each professional body publishes a code of conduct, and requires its
+    members to adhere to it.
+
+-   The professional body can suspend or expel members for serious
+    breaches of its code of conduct.
+
+-   In some professions (e.g., medicine), suspension or expulsion
+    entails loss of the right to practice.
+
+-   In software engineering, this is not (yet) the case.
+
+#### ACM
+
+    1.  GENERAL ETHICAL PRINCIPLES.
+
+        -   Contribute to society and to human well-being, acknowledging
+            that all people are stakeholders in computing.
+        -   Avoid harm.
+        -   Be honest and trustworthy.
+        -   Be fair and take action not to discriminate.
+        -   Respect the work required to produce new ideas, inventions,
+            creative works, and computing artifacts.
+        -   Respect privacy.
+        -   Honor confidentiality.
+
+    2.  PROFESSIONAL RESPONSIBILITIES.
+
+        -   Strive to achieve high quality in both the processes and
+            products of professional work.
+        -   Maintain high standards of professional competence, conduct,
+            and ethical practice.
+        -   Know and respect existing rules pertaining to professional
+            work.
+        -   Accept and provide appropriate professional review.
+        -   Give comprehensive and thorough evaluations of computer
+            systems and their impacts, including analysis of possible
+            risks.
+        -   Perform work only in areas of competence.
+        -   Foster public awareness and understanding of computing,
+            related technologies, and their consequences.
+        -   Access computing and communication resources only when
+            authorized or when compelled by the public good.
+        -   Design and implement systems that are robustly and usably
+            secure.
+
+    3.  PROFESSIONAL LEADERSHIP PRINCIPLES.
+
+        -   Ensure that the public good is the central concern during
+            all professional computing work.
+        -   Articulate, encourage acceptance of, and evaluate
+            fulfillment of social responsibilities by members of the
+            organization or group.
+        -   Manage personnel and resources to enhance the quality of
+            working life.
+        -   Articulate, apply, and support policies and processes that
+            reflect the principles of the Code.
+        -   Create opportunities for members of the organization or
+            group to grow as professionals.
+        -   Use care when modifying or retiring systems.
+        -   Recognize and take special care of systems that become
+            integrated into the infrastructure of society.
+
+    4.  COMPLIANCE WITH THE CODE.
+
+        -   Uphold, promote, and respect the principles of the Code.
+        -   Treat violations of the Code as
+
+####  BCS
+
+    1.  You make IT for everyone
+    2.  Show what you know, learn what you don\'t
+    3.  Respect the organisation or individual you work for
+    4.  Keep IT real. Keep IT professional. Pass IT on
+
+####  IEEE
+
+    1.  To uphold the highest standards of integrity, responsible
+        behavior, and ethical conduct in professional activities.
+
+        -   To hold paramount the safety, health, and welfare of the
+            public, to strive to comply with ethical design and
+            sustainable development practices, to protect the privacy of
+            others, and to disclose promptly factors that might endanger
+            the public or the environment;
+        -   To improve the understanding by individuals and society of
+            the capabilities and societal implications of conventional
+            and emerging technologies, including intelligent systems;
+        -   To avoid real or perceived conflicts of interest whenever
+            possible, and to disclose them to affected parties when they
+            do exist;
+        -   To avoid unlawful conduct in professional activities, and to
+            reject bribery in all its forms;
+        -   To seek, accept, and offer honest criticism of technical
+            work, to acknowledge and correct errors, to be honest and
+            realistic in stating claims or estimates based on available
+            data, and to credit properly the contributions of others;
+        -   To maintain and improve our technical competence and to
+            undertake technological tasks for others only if qualified
+            by training or experience, or after full disclosure of
+            pertinent limitations;
+
+    2.  To treat all persons fairly and with respect, to not engage in
+        harassment or discrimination, and to avoid injuring others.
+
+        -   To treat all persons fairly and with respect, and to not
+            engage in discrimination based on characteristics such as
+            race, religion, gender, disability, age, national origin,
+            sexual orientation, gender identity, or gender expression;
+        -   To not engage in harassment of any kind, including sexual
+            harassment or bullying behavior;
+        -   To avoid injuring others, their property, reputation, or
+            employment by false or malicious actions, rumors or any
+            other verbal or physical abuses;
+
+    3.  To strive to ensure this code is upheld by colleagues and
+        co-workers.
+
+        -   To support colleagues and co-workers in following this code
+            of ethics, to strive to ensure the code is upheld, and to
+            not retaliate against individuals reporting a violation.
+
+### Display Screen Equipment
+
+\'Display Screen\' - Just means a Monitor or equivalent
+
+Regulations apply to DSE users
+
+-   DSE users are employees that use display screen equipment
+    continuously for an hour or more in a single working day.
+
+Regulations do not apply to employees that use DSE for short periods of
+time or use it infrequently.
+
+Display Screen Equipment (DSE) are equipment or devices that contains or
+includes a display.
+
+-   Alphanumeric display
+-   Graphical display
+-   Laptops
+-   Touch screens.
+
+DSE users are exposed to potential health risks
+
+-   Fatigue
+-   Eye strain
+-   Sore limbs or back ache
+
+Employees can be exposed to such risks through DSE devices and
+equipment.
+
+-   Overuse
+-   Improper use
+-   Badly designed workstations
+-   Poorly developed environments
+
+Employers can work with DSE users to avoid potential health risks.
+
+-   Identify risks
+-   Develop and implement practical controls
+-   Commit to healthy working.
+
+Employers should consult and communicate with DSE regards issues as well
+as providing relevant information.
+
+Employers should consider:
+
+-   Special requirements of the employee.
+-   Role of employee or task being performed.
+-   Environment, not just the DSE itself.
+
+Employers do not need to ask employees to assess risk for temporary home
+working, but employees should inform employers of any discomfort.
+
+Employers should support employees in conducting complete risk
+assessments for long-term or permanent home working arrangements.
+
+Regulations operate from the premise that DSE work will not result in
+permanent damage to eyesight or eyes.
+
+DSE users can request eye tests, employers are expected to provide tests
+and supply eyewear (if necessary for DSE work).
+
+Employers may dictate that employees access a nominated optician or they
+may opt to allow employees to provide bill for expense.
+
+Employers under the regulations, must:
+
+-   Analyse workstations and assess as well as reduce risk.
+-   Ensure appropriate controls are in place.
+-   Ensure employees have sufficient information and training.
+-   Provide eyesight tests upon request, special eyewear if required.
+-   Review the assessment.
+
+Employers must assess risk when:
+
+-   DSE user complain.
+-   DSE user commences a new role/position.
+-   Environmental change impacts interaction with DSE.
+-   New DSE is provided to employee.
+
+DSE assessment must be reviewed, when:
+
+-   Users change workstations.
+-   The nature of work tasks changes considerably.
+-   The current controls in place may be producing problems for the
+    user.
+-   Significant changes occur to the equipment, environment or system.
+
+Health and Safety Executive provide the DSE workstation checklist.
+
+The checklist supports organisations in completing a risk assessment and
+complying with the legislation.
+
+The DSE checklist assessment outlines a number of risks and other
+factors.
+
+-   Keyboards, mouse and trackballs.
+-   Display screens.
+-   Software considerations.
+-   Furniture.
+-   Environment.
+
+### Risk
+
+Risk Management
+
+-   Activities used to coordinate efforts and employees with regards to
+    risk.
+-   Risk management process should be built atop a framework and
+    principles.
+-   Framework should supporting integrating the risk management process
+    itself in the management processes for an enterprise.
+
+Outcomes of Risk Management
+
+-   Intolerable risk, elements need to abandoned, replaced or evolved to
+    reduce vulnerabilities.
+-   Tolerable risk, risks have been reduced using solutions to as long
+    as reasonably possible (ALARP).
+-   Acceptable risk, risk reduction not needed - upside risk that
+    companies not only accept but embrace.
+
+Risk types
+
+-   Routine risks, normal decision process that make use of statistics
+    and data to inform decisions.
+-   Complex risks, less obvious may need to gather more evidence and
+    perform cost analysis.
+-   Uncertain risks, lack of predictability and need to monitor impact
+    and roll back any solutions.
+-   Ambiguous risks, stakeholders interpret risk differently, need to
+    ensure participatory decision making.
+
+### Consultancy and contract hire
+
+Contract hire: A supplier provides a customer with the services of an
+agreed number of staff for an agreed period at agreed rates.
+
+-   The customer is responsible for managing the staff.
+-   The supplier is responsible only for providing staff with the right
+    competences.
+
+Freelancers are individuals who contract out their own services; this is
+a special case of contract hire. Consultants are experts who are
+contracted to advise customers on their operations or projects; this is
+up-market contract hire. Contract-hire and consultancy contracts are
+much simpler than bespoke software contracts.
+
+They should address:
+
+-   IPR (Intellectual Property Rights)
+-   Confidentiality
+-   Terms of reference
+-   Liability (is the customer or supplier responsible for any loss?)
+
+### Contracts
+
+A contract is an agreement between two or more parties that can be
+enforced in court.
+
+-   The contract may be verbal or written.
+-   The parties may be individuals or organisations.
+-   All parties must be competent to make a contract.
+-   Each party must receive something and provide something.
+
+Until recently, existing contract law was adequate to cover contracts
+for supply of computer hardware and software. But e-commerce needs new
+legal provisions, to cover transactions where the buyer and seller are
+in different countries.
+
+####  Bespoke software development contracts
+
+    Bespoke software is developed by a supplier for the exclusive use of
+    one customer (or a consortium of customers). The contract specifies
+    the requirements and all deliverables (software, documentation,
+    training, etc.).
+
+    Problem:
+
+    -   Requirements are always changing.
+    -   A contract is supposed to be definitive.
+
+    So the contract should explicitly allow for changing requirements at
+    a price. The contract should also define the customer's and
+    supplier's IPR.
+
+    Copyright can apply only to code specifically developed for the
+    customer:
+
+    -   Not to open-source code
+    -   Not to standard library code
+    -   Not to generic code previously developed by the supplier
+    -   Not to boilerplate code.
+
+    The contract might state that the supplier retains copyright but
+    licences the customer to use it (perhaps exclusively). The contract
+    should state how the development project will be managed. Each party
+    should nominate a project manager, with authority to make decisions
+    (including financial decisions up to some stated limit).
+
+    The contract should specify surcharges if:
+
+    -   The customer is late in providing resources or information to
+        the supplier
+    -   The customer changes the requirements at a late stage.
+
+    The contract should specify an acceptance procedure:
+
+    -   The customer must provide a set of test cases.
+    -   If the system performs these test cases correctly, it is
+        accepted.
+
+####  Fixed-price contract
+
+    A fixed-price contract specifies exactly what the customer will pay,
+    except for penalty clauses:
+
+    -   Increasing the price if the customer is at fault (e.g., changing
+        requirements)
+    -   Decreasing the price if the supplier is at fault (e.g., unmet
+        requirements, or late delivery).
+
+####  Cost-plus contract
+
+    A cost-plus contract specifies that the customer will pay the
+    supplier's actual costs plus a profit margin.
+
+    Why consider a cost-plus contract?
+
+    -   The supplier might be unwilling to undertake a fixed-price
+        contract if the requirements are unclear.
+    -   In a fixed-price contract, the supplier will add in a
+        contingency allowance, which the customer must pay regardless.
+
+### Security through contracts
+
+Contracts can be utilised as an approach to ensure security standards or
+specific security requirements. Enterprises and other companies may rely
+on other partners or an extensive supply chain. Legal forms could
+include specific conditions, warranties and/or third-party
+certification. Caution should be exercised that enforcement may be
+prohibitive or costly.
+
+-   At least by considering such requirements companies will need to
+    perform due diligence that will still benefit the organisation.
+
+####  Payment platforms
+
+    Payment or trading platforms effectively represent a closed club
+    where membership is maintained via contract.
+
+    Members must adhere to various rules surrounding many aspects of
+    transactions.
+
+    -   Duration and timing of transactions.
+    -   Equipment utilised.
+    -   Authentication protocols.
+
+    The platforms ensure standards and specifications via contracts,
+    members must comply to ensure successful transactions and to collect
+    payment. The contracts utilised by payment platforms will typically
+    reflect national and international rules and regulations.
+
+    Failure to comply, may result in failure to collect payment.
+
+    -   If a member fails to comply with the contract when conducting a
+        transaction, for example not adhering to security standards,
+        they may jeopardise payment.
+
+    The payment or trading platform could deny payment, even if a
+    transaction has completed, if requirements of the contract have not
+    been met.
+
+    -   Member of the club uses the platform to attain payment for sale
+        and delivery of goods.
+    -   Customer pays for goods, payment collected via platform, member
+        delivers goods to customer.
+    -   Payment platform refuses to transfer money due to some failure
+        in compliance during the transaction.
+
+####  Payment Card Industry Data Security Standard (PCI DSS)
+
+    Designed and developed to ensure consistent and secure use of
+    cardholder data. Entitles that collect, store, process and transmit
+    cardholder data typically need comply to the standard. PCI DSS is a
+    standard, not a law and so compliance is typically attained through
+    contracts and other agreements.
+
+    -   Laws are still relevant, cardholder data is considered personal
+        data and so in some cases data protections laws may be violated,
+        e.g. data breach.
+    -   For example: data breach involving cardholder data could result
+        in fines under the PCI DSS and GDPR.
+
+####  PCI DSS Six Control Objectives
+
+    Build and Maintain Secure Network and Systems.
+
+    -   Vendor supplied system configuration and defaults must not be
+        used.
+
+    Protect Cardholder Data.
+
+    -   Encrypt transmission of cardholder data and protect it.
+
+    Maintain Vulnerability Management Programme.
+
+    -   Regularly update anti-virus software.
+
+    Implement Strong Access Control Measures.
+
+    -   Restrict access to 'need-to-know-basis' and restrict physical
+        access.
+
+    Regularly Monitor and Test Networks.
+
+    -   Track and monitor cardholder data across network resources.
+
+    Maintain an Information Security Policy.
+
+    -   Develop and refine security policy for staff and contractors.
+
+####  PCI DSS versus Law
+
+    PCI DSS is a standard, not a law and so compliance is typically
+    attained through contracts and other agreements.
+
+    -   Laws are still relevant, cardholder data is considered personal
+        data and so in some cases data protections laws may be violated,
+        e.g. data breach.
+    -   For example: data breach involving cardholder data could result
+        in fines under the PCI DSS and GDPR.
+
+    PCI DSS has specific truncation rules for the display of the primary
+    account number (PAN) on receipts.
+
+    -   "3.3 Mask PAN when displayed (the first six and last four digits
+        are the maximum number of digits to be displayed), such that
+        only personnel with a legitimate business need can see more than
+        the first six/last four digits of the PAN."
+
+####  US Fair and Accurate Credit Transactions Act (FACTA) 2003
+
+    Federal law designed to reduce identity fraud and providing citizens
+    greater insight into their credit profile.
+
+    Section 113 outlines specific truncation rules regarding the display
+    of the primary account number (PAN) on receipts.
+
+    -   "G(1) Except as otherwise provided in this subsection, no person
+        that accepts credit cards or debit cards for the transaction of
+        business shall print more than the last 5 digits of the card
+        number or the expiration date upon any receipt provided to the
+        cardholder at the point of the sale or transaction."
+
+####  Example: Microsoft Store
+
+    Carlo Guarisma sued Microsoft for providing excessive information on
+    receipts from the Microsoft Store in Aventura Florida.
+
+    The receipt from the store contained the customer's name,
+    salesperson and 10-digits from the payment card (the first six
+    digits and the last four digits).
+
+    Microsoft were aligned with the DSS, but not with the law.
+
+    -   PCI DSS also has additional caveats though, including that the
+        standard does not supersede law and recall, there "must be a
+        legitimate business need."
+
+### Defective software
+
+Video
+
+All software contains faults (bugs). Software suppliers try to limit
+their liability for any faults. Typically:
+
+-   If the software proves to be completely unusable, the supplier
+    agrees to refund the purchase price.
+
+But contract/licence terms attempting to limit liability can be
+overridden by laws.
+
+####  UK Unfair Contract Terms Act 1977
+
+    The UK Unfair Contract Terms Act 1977 makes liability-limiting terms
+    enforceable in law only to the extent that they are reasonable.
+
+    A person injured as a result of faulty safety-critical software (or
+    hardware) can sue the supplier for damages, regardless of any
+    limitations stated in the contract/licence.
+
+    Even where software is not safety-critical, faults can cause
+    significant economic damage. E.g.:
+
+    -   An e-mail client that occasionally loses messages
+    -   A mapping system that misplaces some commercial properties.
+
+####  UK Sale of Goods Act 1979
+
+    The UK Sale of Goods Act 1979 requires that goods sold must be fit
+    for purpose. This applies to retail software. So a person who buys a
+    software product in a shop but finds that it is seriously faulty, or
+    does not do what it purports to do, can demand a refund.
+
+    -   But it is unclear whether this Act applies to software
+        downloaded on the Internet!
+
+### Computer Misuse
+
+Computer misuse means unauthorised access to any computer.
+
+This can be by any means:
+
+-   Physical access
+-   Via the Internet.
+
+This can be for any purpose:
+
+-   curiosity
+-   copying, modifying, or deleting data
+-   modifying programs
+-   disrupting normal operation.
+
+UK computer misuse laws
+
+The Computer Misuse Act 1990 (CMA) was enacted to combat misuse.
+
+-   Note: At that time Internet access was limited.
+
+CMA created three new criminal offences:
+
+-   Unauthorised access to any program/data held in any computer
+-   As above, with intent to commit a serious offence
+-   Unauthorised modification of the contents of any computer.
+
+CMA applies to:
+
+-   Anyone anywhere who accesses a computer in UK
+-   Anyone in UK who accesses a computer anywhere in the world.
+
+Examples of offences:
+
+-   Intentionally spreading a virus or worm
+-   Modifying a company's or individual's web pages
+-   Stealing sensitive personal data (e.g., for publication or
+    blackmail)
+-   Stealing commercially sensitive data
+-   Disrupting a company's commercial operations
+-   Disrupting operations of an agency concerned with health or safety
+    (e.g., emergency services or air traffic control).
+
+The Police and Justice Act 2006:
+
+-   Increased maximum penalties for CMA offences
+-   Amended CMA to cover intent to impair operation of any computer
+-   Amended CMA to cover software tools intended to facilitate computer
+    misuse.
+
+New offences:
+
+-   Denial-of-service attacks
+-   Building or selling hackers' toolkits.
+
+Experience of computer misuse laws
+
+Convictions have been infrequent. Penalties have been lenient:
+
+-   Never more than 3 years (even in the NoW phone hacking case)
+-   Maximum penalty is 10 years.
+
+Police are over-stretched. To investigate suspected offences, they must
+engage (expensive) security experts.
+
+Companies that are attacked often prefer to keep quiet, to avoid drawing
+attention to their security weaknesses.
+
+####  Warranted Activity
+
+    Exemption from the CMA and other acts may be permitted if the actions relate to state defence or criminal investigation. Actions taken that have state authorisation, e.g. warrant, would be exempted from specific laws.
+    Liability for actions may be exempted to the extent that is expressed by the state authorisation, i.e. want the warrant permits.
+    Example: warrant issued in line with the (UK) Investigatory Powers Act (IPA) 2016 would be exempt from criminal liability under the (UK) Computer Misuse Act (CMA) 1990.
+
+####  Computer Fraud
+
+    Computer Fraud and Abuse Act 1986 covers:
+
+    -   Unauthorised access to any "protected computer"
+    -   Distribution of malicious code
+    -   Denial-of-service attacks
+    -   Trafficking in passwords.
+
+    It is draconian:
+
+    -   Penalties for first offences up to 10 years.
+    -   Penalties for repeat offences up to 20 years.
+    -   Some offences are treated as terrorism.
+
+    In UK, computer fraud is covered by existing anti-fraud laws.
+
+    But the Internet makes fraud much easier:
+
+    -   Online banking
+    -   E-commerce.
+
+    Also, detection and conviction are harder:
+
+    -   Collection and preservation of evidence of computer fraud
+        requires specialised expertise.
+    -   Trials require specialist experts as witnesses.
+
+### Plan, Do, Check, Act
+
+General management approach for continuous improvement. Understand the problem by collecting and analysing data, devise a plan to address it. Develop a solution to the problem and deploy it, collect measurements to understand effectiveness. Check that solution actually addresses the perceived problem. Produce report, communicate changes and identify the next set of problems.
+
+## Platforms & Profit
+
+The Platforms & Profit theme considers the following material:
+ - Intellectual Property Rights Copyright Confidentiality Patents Trade
+ - marks Trade secrets Reverse Engineering Software locks Software licenses
+
+### Intellectual Property Rights
+
+Tangible vs intellectual property You have parked your bike on the campus. Someone else takes it away. You have been deprived of your bike. This is theft of tangible property. You have composed a song, writing down the score and lyrics in your notebook. Someone else looks at the notebook, memorises or copies the song, and publishes it. You still have the song, but you have been deprived of the right to use or sell it as your own. You have written a computer program. Someone else copies the program, and uses or sells it. You still have the program, but you have been deprived of the right to use or sell it as your own. Intellectual Property These are thefts of intellectual property (IP).
+Thefts of IP are covered by special laws, known as intellectual property rights (IPR). IP is particularly easy to take across national boundaries, so international laws are essential. This was recognised long ago: Paris Convention 1883, covering trade marks and patents Berne Convention 1886, covering copyright. Most (but not all) countries have signed these conventions. Intellectual Property Rights are negative rights as they demand someone does not perform an activity. Registered IPRs are approved or granted by states, typically by some official entity. patents trademarks Unregistered IPRs come into existence and are not approved or granted by states. Copyright Public domain, in the context of IPR, essentially means no IPR exists.
+Intellectual Property Rights are negative rights as they demand someone does not perform an activity. Registered IPRs are approved or granted by states, typically by some official entity. patents trademarks Unregistered IPRs come into existence and are not approved or granted by states. Copyright Public domain, in the context of IPR, essentially means no IPR exists.
+
+####  Types
+
+   - Copyright: the right to copy documents, images, audio/video recordings, programs. Obligation of confidence: protection for confidential information received but not intended to be passed on to others.
+   - Patent: a temporary monopoly on exploiting an invention.
+   - Trade mark: a sign intended to identify a particular product.
+
+####  Software as IP
+
+    Software systems are expensive to develop, so software is valuable IP. Software has characteristics different from older forms of IP (documents, images, audio/video recordings, inventions, trade marks). So existing IP laws had to be extended in the 1980s and 1990s.
+
+### Copyright
+
+In UK, the primary law is the Copyright,
+Design and Patents Act 1988 (CDPA).
+CDPA protects: original literary, dramatic, musical, and artistic works sound recordings, films, TV programmes. Copyright lasts up to 70 years after the author's death. CDPA classifies software as a literary work! -- Only original code is protected. Boilerplate code is not protected. An unregistered right that comes into effect upon the creation of original work. The scope of copyright is typically restricted to the expression of an idea, not so much the idea itself. At the turn of the century scope was expanded to permit legal action against interference with measures designed to protect copyright.
+
+####  Copyright ownership
+
+    The author owns the copyright, unless the author did the work for his/her employer. If the author is an independent contractor, he/she owns the copyright unless the contract says otherwise. The copyright owner has exclusive rights: to make copies of the work (including download of a web page) to sell, rent, lend, or give away copies of the work to adapt the work (including translation to a different language). Others must seek permission from the copyright owner. In some cases permission is implicit. (E.g., downloading a web page is permitted, but not storing it permanently.)
+
+### Confidentiality
+
+If someone reveals information obtained under an obligation of confidence, he/she can be sued in a civil court. Examples: Employees must not reveal confidential information about their employer's business. When a company engages a contractor or consultant, the contract will normally include a confidentiality clause. When two companies are discussing possible collaboration, they will sign a non-disclosure agreement to protect exchanged information.
+
+####  Public interest disclosure
+
+    Sometimes the "public interest" overrides an obligation of confidence. This makes it possible for employees (whistle-blowers) to expose wrong-doing. The UK Public Interest Disclosure Act 1998 (PIDA) provides protection for whistle-blowers who expose: criminal offences failure to comply with legal obligations -- danger to health and safety environmental damage concealment of the above. The whistle-blower must first approach the employer, then a professional body or public official (not the media!).
+
+### Patents
+
+A patent is a temporary right for an inventor to prevent others from exploiting his/her invention without permission. The inventor must apply for a patent to a national patenting office. If the patent is granted, the details of the invention will be published. This will enable anyone to exploit the invention after the patent has expired. In UK, CDPA covers patents. It allows a patent to be granted only if the invention is: new (not previously disclosed or used publicly) -- inventive (non-obvious) capable of industrial application not in an excluded area.
+
+The European Patent Convention lists excluded areas:
+
+-   Anything covered by copyright
+-   Scientific theories
+-   Mathematical methods
+-   Methods and programs.
+
+####  Software patents
+
+    Nevertheless, the European Patent Office has granted software patents. And individual countries have a variety of policies. Result: confusion! Arguments for and against software patents: It is illogical to grant a patent for a hardware device but deny it for a device that uses software to do the same thing. Patents reward research and development, and encourage investment in novel technologies. Much software development is done by small companies, who cannot afford to defend patents in court. In practice, software development has not been inhibited by lack of patents.
+
+### Trade marks
+
+The UK Trade Marks Act 1994 provides protection for trade marks. It defines a trade mark as: any sign capable of being represented graphically which is capable of distinguishing goods or services of one undertaking from those of other undertakings. A trade mark may, in particular, consist of words (including personal names), designs, letters, numerals or the shape of goods or their packaging. Trade marks can be registered with the UK Intellectual Property Office, or its equivalent in other countries. Selling anything with an unauthorised trade mark is a criminal offence in the countries where it is registered.
+
+####  Software trade marks
+
+    Software is now usually distributed without physical packaging. To protect the producer, the software should display the trade mark prominently whenever it runs.
+    Selling pirated software that displays the genuine producer's trade mark is then a criminal offence.
+
+### Trade secrets
+
+Trade secrets can be protected indefinitely, as long as they are kept secret. If such secrets become public, securing a patent is unlikely. Owners of trade secrets can take legal action
+
+-   Against those that misappropriate their secrets.
+-   Against those that utilise such secrets, e.g. a third-party.
+
+Trade secrets are typically protected under general tort law.
+
+-   Valuable information that is not widely known.
+-   Valuable information that delivers benefit to the holder, because it
+    has been kept secret.
+
+Empowering those that have been a reasonable attempt to keep their secrets against those that have utilised, obtained and/or revealed without authorisation. In the US, there has been increasing legal harmonisation around trade secrets across the country. The (US) Economic Espionage Act (1996) is designed to counter trade secret theft. In European law, that has also been increasing legal harmonisation around trade secrets across member states. Directive 2016/943 on the protection of undisclosed know-how and business information (trade secrets) against their unlawful acquisition, use and disclosure. Trade secret holders can use a range of tactics to kept information secret, including technology and legal tools. Legal tools include the use of non-disclosure agreements (though such a tool may not be that effective). The motivation for favouring trade secrets over patents is that companies can exploit their innovation for an indefinite period of time. Risk being able to prevent others from exploiting the innovation through reverse engineering.
+
+### Reverse engineering
+
+Reverse engineering can be considered the lawful approach to obtain trade secrets. promotes the use of patents if trade secret owners want to secure income. promotes economic activity through competition and innovation without impacting significantly on the creator. Misappropriation of trade secrets, using tactics such as bribery or espionage, is not fair game. Scientific investigation on something purchased publicly to reveal its secrets is generally perceived as acceptable. Reverse engineering is typically perceived as an accepted practice in IPR, but does differ depending on the form.
+
+In European law, software owners are typically permitted to decompile programs to understand and support interoperability. In United States law, similar software owners are typically permitted to decompile programs to understand and support interoperability.
+
+Permitted 'tinkering' also includes fixing bugs, adapting for a platform etc.
+
+####  Reverse engineering software
+
+    In European law, software owners are typically permitted to decompile programs to understand and support interoperability. In United States law, similar software owners are typically permitted to decompile programs to understand and support interoperability. permitted 'tinkering' also includes fixing bugs, adapting for a platform etc.
+
+####  First sale
+
+    The first sale rule can be considered the effective protection of individuals to reverse engineer products. individuals that have acquired products have the right to modify, use and resell those items. IP owners can control the first sale, but beyond that IP owners generally lose control of subsequent sales of products. The first rule has many positive outcomes:
+
+    -   Preservation of products.
+    -   Secondary market.
+    -   Transaction clarity.
+    -   Product innovation.
+
+####  Case study: Game Genie
+
+    Video game cheat cartridge originally created by Codemasters and sold by other companies. The cartridge made small alterations to video games to support players, e.g. infinite lives. Nintendo stated that the Game Genie infringed derivative work rights. cartridge afforded consumers the ability to produce unauthorised derivative works of Nintendo games. Video game cheat cartridge originally created by Codemasters and sold by other companies. The cartridge made small alterations to video games to support players, e.g. infinite lives. Nintendo stated that the Game Genie infringed derivative work rights. cartridge afforded consumers the ability to produce unauthorised derivative works of Nintendo games. Court debated whether the cartridge actually produced derivative works as it only interfered or substituted signals from the game cartridge to the system with its own and only under direction of the individual. Court also felt the number of alterations was small and could be deemed fair use. Court argued the cartridge did not impact the market for Nintendo games as it only be used in conjunction with the games. The cartridge itself was also had no value without such games.
+
+### Software locks
+
+The use of software locks or activation process to enable the use of software is not unusual, e.g. license key entry. Neither is the termination of access or reduce access when individuals to no pay usage fees, e.g. software as a service. Undisclosed, subsequent and time-based software locks are far more problematic. preventing use of software after a period without prior notification to the user. such attempts have been successfully considered as attacks against cyber systems and space.
+
+####  Reverse engineering anti-circumvention solutions
+
+    Reverse engineering technological solutions designed to protect IP is very problematic. Copyright law has generally evolved to dissuade interference with solutions to protect IP. In UK law, some exceptions do exist in the CPDA. exemptions exist for those researching cryptography except on computing programs. researchers must be careful as exemptions do not come into effect if their actions (performance or dissemination) negatively affect the copyright owner. no exemptions exist for computer programs.
+
+####  Kerchoffs's Principle
+
+    Every aspect of a cryptosystem should be secure, even if every aspect is known, except the key.
+
+####  Case study: Volkswagen v Garcia
+
+    Engine immobiliser and keys utilise specialised cryptographic hardware, produced under license. researchers reversed engineered the algorithm and wanted to publish results. researchers could have purchased car and reversed engineered algorithm using chip-slicing. researchers instead reversed a third-party software that was used by mechanics for diagnostic purposes. individuals keen to maintain the trade secret status of their work, sought to prevent researchers from disseminating their work. Court agreed that researchers could have reversed engineered the algorithm via chip-slicing, this would be fair game. Court stated that instead the researchers had actually reversed engineered a software product -- that was likely itself only created through improper use of trade secrets. Researchers probably knew or should have known that such a product only existed due to such improper use. Researchers resolved the issue with the IPR owners and eventually disseminated efforts with work essentially aspects redacted.
+
+### Software licences
+
+Buying software is not the same as buying something tangible. It usually means buying a copy of the software with a licence to use it, subject to terms and conditions: in particular, restrictions on making further copies of the software.
+
+####  Retail software licences
+
+    Retail software is intended for a mass market. The price is modest (typically up to £500). The buyer receives one copy of the software with a licence to install it on one computer. The licence does not cover maintenance or upgrades. An organisation might prefer to negotiate a bulk licence. The price is correspondingly higher. The organisation is entitled to install the software on multiple computers. The licence might limit the number of installations, or the number of simultaneous users.
+
+####  Corporate software licences
+
+    Corporate software is intended for large organisations. The market might be: thousands for generic software (e.g., customer relation management, human resource management, computer-aided design) hundreds for more specialised software tens for highly specialised software Licence characteristics: hefty up-front licence fee (typically £10,000 -- £1,000,000) annual maintenance fee (typically 20% of licence fee, or on a scale dependent on volume of usage) installation, configuration, upgrades, and support are covered.
+
+####  Open-source software licences
+
+    Open-source software is distributed as source code. The price is small (or zero). Typical licence conditions: The authors' names and copyright statement must be retained in the source code. The source code (perhaps modified) can be reused. The source code can be re-distributed, but only under identical licence conditions. (In particular, software obtained free cannot be re-sold for profit.) The Open Software Initiative (OSI) was launched in 1998 to promote software licenced in this way.
+
+####  Free software
+
+    Free software is distributed completely free of charge. The Free Software Foundation was launched by Richard Stallman in 1985 to support the GNU project:
+
+    -   A version of Unix
+    -   A suite of compilers for C, C++, Pascal, Ada, Java, etc. (all using common code generators, and targetable to a variety of platforms)
+    -   Libraries
+    -   Utilities
+    -   GNU Emacs
+
+    Linux, developed by Linus Torvalds in 1991, is the superstar of free software
+
+    -   runs on more platforms than any other OS.
+
+## Decisions & Discrimination
+
+Overview The Decisions & Discrimination theme considers the following material:
+
+-   Profiling
+-   Automated decision-making
+-   Data Protection Impact Assessment
+-   Anti-discrimination
+-   Web Content Accessibility Guidelines
+-   Automated decision-making, Data Protection and Equality
+
+### Profiling
+
+
+Profile profiling can be considered as extracting patterns through automated processing of large volumes of personal data using algorithms and mathematical techniques to analyze aspects of individuals. Now these aspects could include elements such as their personality, their habits, their behaviors. These patterns are extracted from this analysis can go on to form profiles and these profiles can be incorporated into decision making.
+
+- Process is by organizations. Now these profiles can be generated from a variety of data sources. Some of these data sources are conventional, were aware of them, such as, say, those on social networks in terms of the messages are individuals post the images they post of who they say. The friends are and what they\'re doing and what their thoughts are.
+
+It can also include web browsing history and these would probably be more familiar with, but there\'s also data sources that are busing less conventional, or we may not think of such as video surveillance footage or data taken from sensors and the home or outside in public spaces. And it could also come the home or outside in public spaces. And it could also come from data sources that are being added all the time, so it\'s important to appreciate all the while we talked about just four data sources there. The data that was able to generate these profiles can come from a wide variety of data sources to make them hopefully more effective.
+
+Now these profiles can be used as part of a decision making process by organizations to make the sessions about people and those decisions could be could this person afford alone. It could also be used to predict behavior as the individual in front of me going to reoffend. Are we going to commit another crime if I let it go, or should I hold on to them? And they can also be used to determine individual preferences. Disaster individual want to see this at the top of the last versus something else at the bottom versus another individual now cause in the context we\'re talking about profiling encompasses use of personal data, it comes into scope of data protection legislation and in the European context that is the general data protection regulations. Specifically, article four defines profiling as any form of automated processing of personal data consisting of the use of personal data to evaluate certain personal aspects relating to a natural person and particular to analyze or predict aspects concerning that natural persons performance at work, economic situation, health, personal preferences, interests, reliability, behavior, location or movements. We\'re talking about an individual versus illegal person, which could be a private company or an organization so the important point there is that general cause these profiles can utilize personal data they enact or common scope of the general data protection regulations in the European context, and you can appreciate that because the impact revolve quite serious situations, we can apply or organization can apply these profiles to make predictions about individuals that can make this elections that have impacts on their life in terms of if they get alone. Or if they\'re going to go into jail.
+
+- Important point: a profile can be used for more than just marketing.
+It can be used for a wide range of tasks.
+- Extracting patterns through automated processing of large volumes of personal data. of personal data.
+- Using algorithms and techniques to analyse aspects of individuals.
+- Aspects that include habits, interests, behaviour and personality.
+- These patterns form profiles that can then be incorporated into a decision-making process.
+
+####  Data sources
+
+    Organisations can generate these profiles from a range of data sources, including:
+      - Social networks
+      - Video surveillance
+      - Web-browsing history
+      - Internet of Things
+
+####  Motivation for organisations
+
+    Profiles can be utilised as part of the decision making process by organisations to:
+      - Make decisions about individuals
+      - Anticipate behaviour
+      - Determine individual preferences
+
+####  Applications
+    - Apply generated profiles to individuals.
+    - Predict behaviours of an individual.
+    - Profiles can be used for tasks such as marketing, but also to support serious decisions.
+    - Consider the Harm Assessment Risk Tool (HART) example from the seminar. Basically Memex intelligence engine.
+
+### Automated decision-making
+- Decision process without human involvement.
+- Decision process can rely upon on profiles, inferences and other data.
+- Automated decision-making could use profiling, but not always.
+- Automated decision-making can result in more accurate and rapid decisions.
+- Affords rapid decisions that involves analysis of large volumes of data.
+- The decision process is often not transparent to individuals.
+- Lack of insight into how data is used to make decisions.
+- Impact from automated decisions could have a significant impact on an individual.
+
+####  Data Protection Impact Assessment
+
+    
+    - DPIA process is to support organisations in considering and determining the risks associated with data protection.
+    - DPIA must consider:
+      - context, scope, nature and purpose of data processing
+      - risks to individuals 
+      - mitigation measures for those risks 
+      - assess compliance, proportionality and necessity of processing.
+    - DPIA is required if you meet the requirements of Article 22.
+    - DPIA can also be used to determine if processing does come under Article 22.
+    - Determine the risks of the profiling and automated decision-making process and the mitigation to those risks.
+    - Publish the DPIA, but this is not required.
+    - If you identify high risks that you can not mitigate then the DPIA must be submitted to the ICO (in the UK context). must be submitted to the ICO (in the UK context). 
+    - The ICO can advise of the income, including prohibiting the intended processing.
+
+####  Anti-discrimination
+
+    
+    - The (UK) Equality Act 2010 aims to progress equality and protect the rights of individuals from discrimination.
+    - The Act incorporates and supersedes many prior pieces of legislation:
+      - The Equal Pay Act 1970 
+      - The Sex Discrimination Act 1975 
+      - The Race Relations Act 1976 
+      - The Disability Discrimination Act 1995 
+      - The Employment Equality (Religion or Belief) Regulations 2003 
+      - The Employment Equality (Sexual Orientation) Regulations 2003 
+      - The Employment Equality (Age) Regulations 2006 
+      - The Equality Act 2006, Part 2 
+      - The Equality Act (Sexual Orientation) Regulations 2007 (UK) Equality Act 2010 outlaws discrimination on protected characteristics 
+      - Age; disability; gender reassignment; marriage and civil partnership; pregnancy and maternity; race, colour, ethnic origin or nationality; religion or belief; sex; sexual orientation.
+    - Discrimination can be categorised as direct or indirect.
+      - Direct discrimination is when an individual is treated differently than another because of a protected characteristic.
+      - Indirect discrimination is when a decision for everyone has a different impact on individuals that share a protected characteristic.
+    - Discrimination can be permitted under the (UK) Equality Act 2010, if there is a legitimate reason.
+    - An individual can justify discrimination under the (UK) Equality Act 2010, if they can demonstrate it is a proportionate means to achieve a legitimate aim.
+    - Individuals can test if discrimination is permitted under the (UK) Equality Act 2010 in court.
+
+    Grounds:
+    -   Sex
+    -   Race
+    -   Age
+    -   Disability
+
+    Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018
+    - The regulations require Public Sector Bodies to meet the requirements of the (UK) Equality Act 2010 in providing reasonable adjustments for disabled people.
+    - The expectation is that the regulations can be met by complying with the Web Content Accessibility Guidelines (WCAG) and providing an accessibility statement.
+
+####  Avoiding discrimination
+
+    - Employers and employee must adhere to the (UK) Equality Act 2010.
+    - Employers can support employees in attaining the act, via: ◦
+    policy ◦ effective procedures ◦ training and education.
+
+####  Web Content Accessibility Guidelines
+
+    
+    - The WCAG are a set of guidelines that are internationally recognised (ISO/IEC 40500:2012).
+    - The aim of the guidelines is to ensure that web solutions are accessible to a wide range of individuals with disabilities.
+    - The guidelines are defined in such a way that they are not implementation specific.
+
+    Principles:
+      - Perceivable
+      - Operable
+      - Understandable
+      - Robust
+
+    WCAG has 3 conformance levels:
+    -   A : Minimal
+    -   AA : Acceptable
+    -   AAA : Optimal
+
+####  Automated decision-making, Data Protection and Equality
+    - The (EU/UK) General Data Protection Regulations (GDPR) and (UK) Data Protection Act 2018 (DPA) regulate processing and collection of personal data.
+    - Automated decision-making solutions that utilise personal data come within the scope of the legislation.
+    - Automated decision-making solutions may also come with the scope of the (UK) Equality Act 2010.
+
+####  Data protection
+    - Systems that do not use personal data, do not come within the scope of data protection legislation, e.g. prediction of the weather.
+    - Systems that do use personal data for development, testing and deployment would come within the scope of data protection legislation.
+
+    Automated decision-making and Data Protection
+      - Development
+      - Testing
+      - Deployment
+
+      - Data protection legislation is neutral, there is no implementation or technology referenced.
+      - The (EU/UK) GDPR has provisions for: 
+        - Profiling 
+        - Automated decision-making Article 22 
+
+      - The GDPR restricts the use of solely automated decision- making that has legal impact or similar significant effect on an individual. Solely automated Data Protection Impact Assessment Relevant rights Right to be informed Right to object Individual rights Equality
+      - The (UK) Equality Act 2010 outlines a number of protected characteristics. 
+      - Automated decision-making must not result in discrimination that: 
+        - Produces decisions that result in individuals being treated different due to a protected characteristic 
+        - Impact of the decision is different for an individual with a protected characteristic than to those without.
+      Organisations must communicate effectively that decisions do not discriminate on any of the protected characteristics.
+
+## Society & Surveillance
+
+### Overview
+
+The Society & Surveillance theme considers the following material:
+- Privacy
+- Data protection
+- General Data Protection Regulations
+- Mointoring of communications
+- Freedom of information
+- Information-Security
+- Internet
+- Defamation
+- Pornography
+- Spam
+
+### Privacy
+
+- "The right of people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no Warrants shall issue, but upon probable cause, supported by Oath or affirmation, and particularly describing the place to be searches, and the persons or things to be seized."
+
+- US Constitution, Amendment IV via the Bill of Rights (1791).
+  - "No one shall be subjected to arbitrary interference with his privacy, family, home or correspondence, nor to attacks upon his honour or reputation. Everyone has the right of the protection of the law against such interference or attacks."
+  - UN, Universal Declaration of Human Rights, Article 12 (1948).
+    - "Everyone has the right to respect for his or her private and family 
+    - "Everyone has the right to respect for his or her private and family life, home and communications." 
+  - EU, Charter of Fundamental Rights, Article 7 (2000).
+    - UK has no comprehensive privacy law.
+    - The Data Protection Act 1998 covers stored data, but not communications.
+    - The Regulation of Investigatory Powers Act 2000 regulates monitoring of postal, phone, and computer communications.
+
+### Data Protection Legislation
+
+- EU has sought to harmonise national data protection laws:
+  - European Directive on Data Protection 1995
+  - General Data Protection Regulation (GDPR) 2018
+- USA has no comprehensive data protection law, but a patchwork of state laws and regulations.
+- Many other countries have weak data protection laws or none at all.
+- Much potential for conflict:
+  - where data is sent from one country to another
+  - where data is held by multinationals (e.g., Google, Facebook).
+- Data Protection Act 1984 protected individuals from misuse of data by large organisations:
+  - use of inaccurate/incomplete/irrelevant personal data 
+  - use of personal data by unauthorised persons 
+  - use of personal data for purposes other than those for which it was collected.
+- Data Protection Act 1998 (DPA) 
+  - conforms to European Directive on Data Protection 1995 
+  - covers Internet data as well as stored data covers Internet data as well as stored data 
+  - no longer assumes that large organisations are the only possible offenders.
+
+
+### General Data Protection Regulations
+
+- The GDPR restricts the use of solely automated decision-making that has legal impact or similar significant effect on an individual.
+- Solely means the decision making process has no human involvement and is completely automated
+- The process is still considered solely automated if humans are involved in the entry of data.
+- The process would not be considered solely automated, if the outcome is considered by a human being as part of the decision process.
+- Human inclusion must be significant to avoid being deemed solely automated.
+- A human must have the potential to consider and alter the decision before application, rather than just blindly approving automated decisions.
+- An automated decision having legal impact is a decision that affects the legal rights of an individual.
+- A decision that has similar significant effect that impacts on the individual.
+- Automated-decision making is permitted under specific circumstances. circumstances.
+- Organisations also have additional responsibilities when utilising automated decision-making.
+- Organisations must: 
+  - develop processes that allow individuals to exercise rights 
+  - put safeguards in place 
+  - inform the individual about the use of automated decision- making process and profiling.
+
+### Monitoring of communications
+
+In this context communications include:
+- Letters
+- Phone calls
+- Text messages
+- E-mail messages
+- Anything posted on a blog or social network
+
+Communications data are defined as:
+- Identities of senders and receivers
+- Their locations
+- Dates and times
+- Size or durations
+- But not the content of communications
+
+####  UK Regulation of Investigatory Powers Act 2000 (RIPA)
+
+    RIPA created a framework for controlling lawful interception of computer/phone/postal communications:
+      - by specified public agencies (police, intelligence, tax collection), but only for preventing or detecting serious crime
+
+    - by communication service providers (CSPs) and employers, but only for specified legitimate reasons
+
+    RIPA permits any organisation providing computer/phone services (e.g. an ISP or employer) to monitor and record users' communications, for legitimate reasons. Legitimate reasons include:
+    - ensuring compliance with the organisations regulations and procedures
+    - upholding standards e.g. calls monitored for training purposes
+    - preventing or detecting crime e.g. theft, fraud
+    - investigating/detecting unauthorised use of communication systems
+
+    Users must be told that such interceptions may take place. RIPA permits specified public agencies to intercept communications:
+    - only for specified purposes, such as preventing/detecting serious crime
+    - only with a warrant granted by a senior official, identifying the suspect persons or organisations
+
+    Originally only police, intelligence, and tax agencies could seek warrants, was alter extended to numerous other public agencies.
+
+    1.  Controversy and ruling
+
+        RIPA has been criticised by some MPs and campaign groups for excessive intrusion. But has also been critised by intelligence agencies for not going far enough. Blanket surveillance was ruled illegal by the EU court of justice in 2014: "The Court takes the view that, by requiring the retention of those \[communications\] data and by allowing the competent national authorities to access those data, the directive interferes in a particularly serious manner with the fundamental rights to respect for private life and to the protection of personal data. \[...\]"
+
+####  UK Investigatory Powers Act
+
+    The Investigatory Powers Act 2016 reforms interception of communication:
+    - brought together all the powers available to intelligence and security services to obtain communications
+    - refines how these powers are monitored and authorised
+    - ensures Internet connection records can be retained for law enforcement purposes
+
+### Freedom of information
+
+
+- The basic principle of freedom of information is that information held by public bodies should be available to the public (with certain exceptions).
+- Key questions:
+  - Which public bodies should be covered? 
+  - Which types of information should be covered? Which should be treated as exceptions?
+- The Freedom of Information Act 2000 (FoIA) aimed: 
+  - to provide clear rights of access to information held by bodies in the public sector 
+  - to enable anyone to apply for access to such information.
+- FoIA's answers to the key questions: 
+  - Public bodies include Parliament, all government departments, local authorities, NHS, universities, schools, etc. 
+  - Information covered includes printed documents, electronic documents, e-mails, etc. Exceptions include classified documents.
+- There's a potential conflict between FoIA and DPA.
+- Responding to FoIA requests can be extremely costly.
+
+### Information Security
+
+####  Obfuscation-based inference controls
+
+    
+    - Anonymisation 
+      - decoupling identification from information. 
+      - achieving anonymisation is extremely difficult. 
+      - labelling a data set as anonymised remains unclear. 
+    - Generalisation
+      - reducing the precision of data to reduce the likelihood of informing identity. 
+      - example: use of ranges. 
+    - Suppression 
+      - suppression information, making fewer data available to attacker to reduce inferences.
+      - example: suppression gender in 50% of data records. 
+    - Dummy addition 
+      - adding dummies or fake data points to data sets prior to providing to other party.
+      - example: artificial records. 
+    - Perturbation
+      - adding noise to data to reduce the ability of other party to form inferences. 
+      - example: differential privacy.
+
+####  Internet
+
+    
+    - The Internet's benefits are well-known:
+      - easy access to data of all types (text, images, video, audio)
+      - easy communication
+      - transcends national boundaries.
+    - But it also brings risks:
+      - some data might be harmful, even unlawful
+      - communication can be abused (e.g., by criminals and "trolls")
+      - regulation is difficult (because it transcends boundaries)!
+
+####  Internet Service Providers (ISPs)
+
+    - An internet service provider (ISP) provides access to the Internet for its customers (organisations and individuals).
+    - Can an ISP be held responsible for unlawful data up/downloaded by its customers?
+    - EU law (Directive 2000/31/EC) distinguishes between:
+      - mere conduit 
+      - caching 
+      - hosting. 
+
+      - Mere conduit: The ISP simply transmits data up/downloaded by the customer.
+        - Then the ISP is not liable for damages or criminal sanctions.
+      - Caching: The ISP temporarily stores downloaded data, to speed up future downloading of the same data. 
+        - Then the ISP is not liable for damages or criminal sanctions, provided that: 
+          - it promptly removes or blocks access to cached data when informed that the original data had been removed/blocked, or a court/authority has ordered removal/blocking 
+      - Hosting: The ISP permanently stores data uploaded by its customers. 
+        -Then the ISP is not liable for damages or criminal sanctions, provided that:
+          - it is unaware that unlawful data has been uploaded 
+          - it promptly removes/blocks unlawful data as soon as it is discovered 
+          - the customer who uploaded unlawful data was not acting on the ISP's authority
+      - When an ISP receives a complaint, how does it judge whether data is unlawful?
+      - If the complainant is a powerful organisation or individual, the ISP might prefer to play safe.
+      - Example:
+        - A freelance journalist uploads an article alleging that an arms company is ignoring an international arms embargo. 
+        - The arms company claims that this is defamation, and demands that the hosting ISP remove the article. 
+        - The ISP cannot evaluate the journalist's detailed evidence. 
+        - The ISP might decide to remove the article, just to avoid time-consuming and expensive legal action.
+
+####  Internet Watch Foundation (IWF)
+
+    - IWF's remit includes defamatory material, child abuse images, unlawful adult material, etc.
+    - Anyone can report any potentially unlawful content to IWF. - If IWF judges that the content is unlawful, it informs the local police (or Interpol) and the hosting ISP. - If the hosting ISP is outside UK, IWF asks all its member ISPs in UK to block access to the unlawful content.
+    - Example:
+      - An arms company submits its claim of defamation to IWF. 
+      - IWF experts judge whether the claim is justified or not. 
+      - If the claim is held to be unjustified, the ISP can safely disregard it.
+
+####  Law in different countries
+
+    
+    - US law on ISPs is much looser than EU law. Liability for hosting is the same as liability for mere conduit.
+    - What is unlawful content varies widely from country to country.
+    - But the Internet transcends national boundaries.
+      - In principle, anyone in country A can access data hosted in another country B (even if the data is lawful in B but unlawful in A). 
+      - Authoritarian governments often try to block access to deprecated hosts. But determined users can get round such blocks. 
+    - Council of Europe has approved a convention that covers: 
+      - Child pornography 
+      - Criminal copyright infringement 
+      - Computer-related fraud 
+      - Hacking
+      - Hate material. 
+      - Ratified by 39/51 member countries
+        - Including USA and some other countries outside Europe. 
+        - But USA opted out of the hate material clause 
+          - Constitutional right to freedom of speech.
+
+### Defamation
+
+
+- Defamation is communication of a false statement that harms the reputation of an individual, group, or organisation.
+- Some countries (e.g., England) distinguish between:
+  - slander (spoken defamation) 
+  - libel (written defamation, including e-mail, blogs, tweets, etc.)
+- Other countries (e.g., Scotland) make no such distinction.
+- In some countries, criticism of government ministers is treated as defamation.
+
+### Pornography
+
+
+- Before the Internet, porn was relatively easy to control:
+  - photos and videos recorded on film had to be developed, using specialised equipment
+  - police could raid shops suspected of storing porn.
+- Now, porn is very difficult to control: 
+  - ubiquitous digital cameras 
+  - enormous size of Internet. 
+- There is a wide variation in laws: 
+  - In USA, porn is protected by the constitutional right to freedom of speech (!). 
+  - In Europe, adult porn is usually lawful, provided that it is non-violent, consensual, and inaccessible to children.
+  - In some other countries, all porn is unlawful (and even nudity or scanty dress).
+  - But there is one consensus: In nearly all countries, possessing or communicating child porn is a criminal offence.
+
+### Spam
+
+
+- Spam is unsolicited e-mail, sent without consent of recipients, and with no attempt to target only recipients likely to be interested.
+- Various purposes:
+  - sales (dubious medications, treatments, investments, etc.)
+  - spreading viruses
+  - fraud or identity theft (attempting to discover private information).
+- In EU law (EC Directive on Privacy and Electronic Communications 2002):
+  - Unsolicited e-mail can be sent to individuals only with prior consent.
+  - Unsolicited e-mail must not conceal the sender's true address.
+- A seller may use e-mail addresses obtained in the normal course of business, but must make it easy for recipients to request the seller to stop sending spam. 
+- Onus is on spammers to seek prior consent.
+  - But does not apply to senders outside EU (90% of all spam). 
+  - Also hard to enforce: individuals must take their own action, even against large companies.
+- In US law (CAN-SPAM Act 2003), spam is lawful if: 
+  - The recipient has not asked the sender to stop. 
+  - The unsolicited e-mail contains a valid e-mail address to request that the sender to stop. 
+- This is weaker than EU law: 
+  - No prior consent is required. 
+  - Onus is on the recipient to respond, but this inadvertently confirms that the recipient's e-mail address is still valid.
+- But US law does have teeth: 
+  -ISPs can and do sue spammers for damages. 
+  - Spammers have been imprisoned and fined.
